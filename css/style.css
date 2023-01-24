@@ -9,11 +9,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 20px;
-
-    
-
-    
-
 }
 .statistic .content {
     
@@ -22,8 +17,6 @@
     padding-bottom: 200px;
     color: white;
     padding-top: 100px;
-    
-    
 }
 .content .row {
     font-size: 25px;
@@ -32,7 +25,6 @@
     width: 100%;
 }
 
-
 /****end statistic*****/
 .template {
     background-color: white;
@@ -40,11 +32,7 @@
     display: inline-flexbox;
     margin-bottom: 30px;
     text-align: center;
-    
-    
-
 }
-
 
 /****start *****/ 
 
@@ -80,27 +68,17 @@
     box-shadow: 3px 3px 10px rgb(209, 20, 209);
     transform: translateX(3px);
     background-color: rgb(65, 10, 214);
-
 }
-
 .container .Feature i{
     padding: 20px;
     font-size: 80px;
     color: #eee;
-    
 }
-
 .container .Feature h3 {
-
     font-size: 50px;
-    
 }
 .Feature p {
     font-size: 20px;
-    
 }
-
-
-
 
 /****end feutures*****/
